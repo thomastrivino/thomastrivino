@@ -6,12 +6,14 @@
   
   &emsp;📚 My favorite pass-time is reading books, currently working through Oathbringer!
   
- ### &nbsp;⚡ Languages
+ ### &nbsp;⚡ Tools
   * Java
   
   * C
   
   * C#
+
+  * Google Script
 
   * Unity
   
