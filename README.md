@@ -17,4 +17,6 @@
 
   * Unity
   
-  * Javascript (Minimal)
+  * Javascript
+
+  * React (React Native)
